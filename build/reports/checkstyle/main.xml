@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.16.1">
+<file name="C:\Users\Training\Desktop\Demo\src\main\java\com\edu\collections\Category.java">
+</file>
+<file name="C:\Users\Training\Desktop\Demo\src\main\java\com\edu\collections\CollectionConcepts.java">
+<error line="8" column="5" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Training\Desktop\Demo\src\main\java\com\edu\collections\Customer.java">
+</file>
+<file name="C:\Users\Training\Desktop\Demo\src\main\java\com\edu\collections\Enquiry.java">
+</file>
+<file name="C:\Users\Training\Desktop\Demo\src\main\java\com\edu\collections\HelpDesk.java">
+<error line="6" severity="warning" message="Import statement for &apos;com.edu.collections.Category.PRINTER&apos; is in the wrong order. Should be in the &apos;STATIC&apos; group, expecting not assigned imports on this line." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+<error line="16" column="5" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="27" column="5" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="38" column="5" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Training\Desktop\Demo\src\main\java\com\edu\collections\Product.java">
+<error line="6" severity="warning" message="Import statement for &apos;java.util.Comparator.comparing&apos; is in the wrong order. Should be in the &apos;STATIC&apos; group, expecting not assigned imports on this line." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+</file>
+<file name="C:\Users\Training\Desktop\Demo\src\main\java\com\edu\collections\ProductCatalogue.java">
+</file>
+<file name="C:\Users\Training\Desktop\Demo\src\main\java\com\edu\collections\ProductFixtures.java">
+</file>
+<file name="C:\Users\Training\Desktop\Demo\src\main\java\com\edu\collections\Shipment.java">
+</file>
+<file name="C:\Users\Training\Desktop\Demo\src\main\java\com\edu\collections\SortedProductCatalogue.java">
+<error line="8" severity="warning" message="Import statement for &apos;com.edu.collections.Product.BY_WEIGHT&apos; is in the wrong order. Should be in the &apos;STATIC&apos; group, expecting not assigned imports on this line." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+</file>
+<file name="C:\Users\Training\Desktop\Demo\src\main\java\com\edu\collections\Supplier.java">
+</file>
+<file name="C:\Users\Training\Desktop\Demo\src\main\java\com\edu\collections\TheArrayProblem.java">
+<error line="13" column="5" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Training\Desktop\Demo\src\main\java\com\edu\collections\TreeSetProductCatalogue.java">
+<error line="7" severity="warning" message="Import statement for &apos;com.edu.collections.Product.BY_NAME&apos; is in the wrong order. Should be in the &apos;STATIC&apos; group, expecting not assigned imports on this line." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+</file>
+</checkstyle>

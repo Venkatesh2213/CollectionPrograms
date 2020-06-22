@@ -1,9 +1,9 @@
 package com.edu.collections;
+
 import java.util.ArrayDeque;
 import java.util.Queue;
 
 import static com.edu.collections.Category.PRINTER;
-
 
 
 public class HelpDesk {

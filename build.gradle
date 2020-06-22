@@ -25,7 +25,6 @@ checkstyle {
     toolVersion = checkstyleVersion
     config = rootProject.resources.text.fromFile('config/checkstyle/checkstyle.xml')
     ignoreFailures = false
-
 }
 
 findbugs {

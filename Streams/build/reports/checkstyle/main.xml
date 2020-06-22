@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.16.1">
+<file name="C:\Users\Training\Desktop\Demo\Streams\src\main\java\com\edu\streams\CreateIntStream.java">
+<error line="11" severity="warning" message="Comment has incorrect indentation level 0, expected is 4, indentation should be the same level as line 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.CommentsIndentationCheck"/>
+</file>
+<file name="C:\Users\Training\Desktop\Demo\Streams\src\main\java\com\edu\streams\EvenOrOdd.java">
+<error line="8" column="5" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="9" severity="warning" message="&apos;method def&apos; child have incorrect indentation level 9, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="10" severity="warning" message="&apos;method def&apos; child have incorrect indentation level 9, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="C:\Users\Training\Desktop\Demo\Streams\src\main\java\com\edu\streams\Person.java">
+<error line="13" column="5" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Training\Desktop\Demo\Streams\src\main\java\com\edu\streams\PersonFilter.java">
+</file>
+<file name="C:\Users\Training\Desktop\Demo\Streams\src\main\java\com\edu\streams\PredicateClass.java">
+</file>
+</checkstyle>

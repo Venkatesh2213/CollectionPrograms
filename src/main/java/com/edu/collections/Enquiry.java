@@ -8,20 +8,23 @@ public class Enquiry {
         this.customer = customer;
         this.category = category;
     }
-    public Customer getCustomer()
-    {
-        return  customer;
+
+    public Customer getCustomer() {
+        return customer;
     }
-    public Category getCategory(){
+
+    public Category getCategory() {
         return category;
     }
 
-
     @Override
-    public String toString(){
-        return "Enquiry{" +
-                "customer='" + customer + '\'' +
-                ", category=" + category +
+    public String toString() {
+        return "Enquiry{"
+                +
+                "customer='" + customer + '\''
+                +
+                ", category=" + category
+                +
                 '}';
     }
 }

@@ -6,7 +6,7 @@ public class TheArrayProblem {
 
     Product door = new Product("Wooden Door", 35);
     Product window = new Product("Floor Panel", 22);
-    public   Product[] products = {door, window};
+    public Product[] products = {door, window};
 
     //protected List<Product> list = Arrays.asList(products);
 
